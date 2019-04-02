@@ -1,0 +1,16 @@
+#multiplication of two matrix
+def dimension(A)
+	return len(A),len(B[o])
+a=eval(input())
+b=eval(input())
+r1,c1=dimension(A)
+r1,c2=dimension(B)
+		if c1==r2:
+			result (x in range(r1))
+			for i in range(r1):
+				for j in range(c2):
+					for k in range(c1):
+			result[i][j]+=A[i][k]*B[k][j]
+else:
+print(dimension not match)
+print(result)

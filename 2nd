@@ -1,0 +1,7 @@
+# find min and max element of this list enetred bythe user.
+a=[]
+for i in range (10):
+	a.append(int(input()))
+print(max())
+print(min())
+

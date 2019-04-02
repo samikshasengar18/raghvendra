@@ -1,0 +1,20 @@
+#1 descrbe the four method of string.write down with example.
+(a) count()
+count=0
+for letter in 'hello world':
+	if (letter=='1'):
+		count+=1[rint(count,'letter found')
+
+(b) capatilize()
+str="programiz"
+print('str.capatilize()=',str.capataize()))
+
+(c) len()
+str="samiksha"
+print('len(str)',=len()str)))
+
+(d) enummerate()
+list_enummerate=list()enummerate(str))
+print('list(enumerate(str)=',)
+list_enumerate)
+
